@@ -5,4 +5,7 @@ Various design patterns coded in Java:
 - Facade
 - Factory
 - Singleton
-- Observer 
+- Observer
+- Decorator 
+- Iterator
+- Abstract Factory
